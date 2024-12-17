@@ -2,9 +2,9 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="210mm"
-   height="297mm"
-   viewBox="0 0 210 297"
+   width="6.6109252mm"
+   height="10.159611mm"
+   viewBox="0 0 6.6109252 10.159611"
    version="1.1"
    id="svg1"
    xml:space="preserve"
@@ -24,15 +24,15 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#505050"
      inkscape:document-units="mm"
-     inkscape:zoom="15.670964"
-     inkscape:cx="382.42702"
-     inkscape:cy="564.03678"
+     inkscape:zoom="17.804377"
+     inkscape:cx="8.2002307"
+     inkscape:cy="17.916942"
      inkscape:window-width="1800"
      inkscape:window-height="1097"
      inkscape:window-x="0"
      inkscape:window-y="44"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="svg1"
      showgrid="false" /><defs
      id="defs1"><inkscape:path-effect
        effect="bspline"
@@ -192,7 +192,8 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     style="display:inline"><image
+     style="display:inline"
+     transform="translate(-101.17682,-143.63187)"><image
        width="9.0593338"
        height="11.006666"
        preserveAspectRatio="none"
@@ -301,7 +302,7 @@
        ry="0.31103382"
        transform="matrix(0.76441977,-0.64471887,0.65677767,0.75408427,0,0)" /><path
        id="path18"
-       style="opacity:1;fill:#c65197;stroke-width:0.15;fill-opacity:1"
+       style="opacity:1;fill:#c65197;fill-opacity:1;stroke-width:0.15"
        transform="rotate(19.642853)"
        d="m 145.73559,103.52466 c -1e-5,0.13074 -0.0305,0.20225 -0.0848,0.2022 -0.0542,5e-5 -0.0981,-0.10003 -0.0981,-0.23077 0,-0.13074 0.0751,-0.21616 0.12927,-0.21611 0.0542,-5e-5 0.0536,0.11394 0.0536,0.24468 z"
        sodipodi:nodetypes="scscss" /><path
@@ -335,5 +336,9 @@
        sodipodi:nodetypes="cscccc" /><path
        id="path27"
        style="opacity:1;fill:#da863e;fill-opacity:1;stroke-width:0.0921813"
-       d="m 102.18,151.03312 c -0.005,-0.0348 0.0169,-0.0896 0.0917,-0.1068 0.0749,-0.017 0.15689,-0.0168 0.16168,0.0175 0.005,0.0348 -0.0478,0.073 -0.12256,0.0903 -0.0747,0.0177 -0.12607,0.0333 -0.13081,-10e-4 z"
-       sodipodi:nodetypes="cscccc" /></g></svg>
+       d="m 102.18,151.03312 c -0.005,-0.0348 0.0169,-0.0896 0.0917,-0.1068 0.0749,-0.017 0.15689,-0.0168 0.16168,0.0175 0.005,0.0348 -0.0478,0.073 -0.12256,0.0903 -0.0747,0.0177 -0.12607,0.0333 -0.13081,-0.001 z"
+       sodipodi:nodetypes="cscccc" /></g><use
+     x="0"
+     y="0"
+     xlink:href="#layer1"
+     id="use27" /></svg>
