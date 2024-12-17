@@ -3,3 +3,4 @@ Session.vim
 *.jpg~
 *.png~
 *.blend1
+.DS_Store
