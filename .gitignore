@@ -1,5 +1,6 @@
 Session.vim
 *.kra~
+*.kra-autosave.kra
 *.jpg~
 *.png~
 *.blend1
